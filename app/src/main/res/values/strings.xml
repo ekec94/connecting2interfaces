@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="txtName">Emily</string>
+    <string name="btnViewProfile">View Profile</string>
+    <string name="imgDescription">Image of a cat</string>
+    <string name="txtProfileInfo">Name: Emily Kec \n Age: Thirty \n Student at MCC</string>
+</resources>
